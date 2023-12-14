@@ -39,6 +39,7 @@ jobs:
           website: github.com/Lethal-Org/modpack
           
           # Categories the mod belongs to
-          categories: Modpacks
+          categories: |
+            modpacks
 
           repo: https://thunderstore.io

@@ -1,8 +1,8 @@
 {
-	"name": "BonoboPack",
-	"version_number": "1.1.0",
-	"website_url": "",
-	"description": "Bonobo mod pack for me and my friends",
+	"name": "LethalOrgPack",
+	"version_number": "1.0.1",
+	"website_url": "https://github.com/Lethal-Org/modpack",
+	"description": "Lethal org mod pack for me and my friends",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"NotAtomicBomb-TerminalApi-1.4.0",
