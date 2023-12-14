@@ -40,3 +40,5 @@ jobs:
           
           # Categories the mod belongs to
           categories: Modpacks
+
+          repo: https://thunderstore.io
