@@ -1,28 +1,41 @@
-name: Upload Thunderstore Package
-  # You may pin to the exact commit or the version.
-  # uses: GreenTF/upload-thunderstore-package@567c2940366487230be4feb5017396a3dfbc9387
-  uses: GreenTF/upload-thunderstore-package@v4.1
-  with:
-    # Thunderstore community to publish to
-    community: lethal-company
+name: Publish Mod
+
+# Run when a new release is... released
+on: 
+  release:
+    types: [published]
+  push:
+    tags:        
+      - '**'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # Use checkout to publish the files in your repo
+      - uses: actions/checkout@v3
+      - uses: GreenTF/upload-thunderstore-package@v4.1
+        with:
+          # Thunderstore community to publish to
+          community: lethal-company
     
-    # Name of the team to publish the mod under
-    namespace: Carneiro
-    
-    # Name of the package
-    name: Lethal Org Pack
-    
-    # Package version to publish
-    version: ${{ github.ref_name }}
-    
-    # Description of the mod
-    description: Modpack for me and my friends
-    
-    # Thunderstore API token
-    token: ${{ secrets.THUNDERSTORE_TOKEN }}
-    
-    # Homepage URL
-    website: github.com/Lethal-Org/modpack
-    
-    # Categories the mod belongs to
-    categories: Modpacks
+          # Name of the team to publish the mod under
+          namespace: Carneiro
+          
+          # Name of the package
+          name: Lethal Org Pack
+          
+          # Package version to publish
+          version: ${{ github.ref_name }}
+          
+          # Description of the mod
+          description: Modpack for me and my friends
+          
+          # Thunderstore API token
+          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          
+          # Homepage URL
+          website: github.com/Lethal-Org/modpack
+          
+          # Categories the mod belongs to
+          categories: Modpacks
