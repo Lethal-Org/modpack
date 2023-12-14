@@ -1,4 +1,4 @@
-- name: Upload Thunderstore Package
+name: Upload Thunderstore Package
   # You may pin to the exact commit or the version.
   # uses: GreenTF/upload-thunderstore-package@567c2940366487230be4feb5017396a3dfbc9387
   uses: GreenTF/upload-thunderstore-package@v4.1
