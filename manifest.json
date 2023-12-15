@@ -1,6 +1,6 @@
 {
 	"name": "LethalOrgPack",
-	"version_number": "1.0.1",
+	"version_number": "1.1.0",
 	"website_url": "https://github.com/Lethal-Org/modpack",
 	"description": "Lethal org mod pack for me and my friends",
 	"dependencies": [
@@ -26,6 +26,10 @@
 		"AllToasters-QuickRestart-1.1.0",
 		"amnsoft-EmployeeAssignments-1.0.5",
 		"HomelessGinger-MaskedEnemyOverhaul-2.0.1",
-		"jammeh-NoiseSuppression-1.0.2"
+		"jammeh-NoiseSuppression-1.0.2",
+		"squall4120-StockOverview-1.0.3",
+		"Hexnet111-SuitSaver-1.1.1",
+		"EliteMasterEric-Coroner-1.1.0",
+		"taffyko-NameplateTweaks-1.0.2"
 	]
 }
