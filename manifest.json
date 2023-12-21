@@ -1,6 +1,6 @@
 {
 	"name": "LethalOrgPack",
-	"version_number": "1.2.0",
+	"version_number": "1.3.0",
 	"website_url": "https://github.com/Lethal-Org/modpack",
 	"description": "Lethal org mod pack for me and my friends",
 	"dependencies": [
@@ -11,26 +11,27 @@
 		"kRYstall9-FastSwitchPlayerViewInRadar-1.3.1",
 		"tinyhoot-ShipLoot-1.0.0",
 		"BepInEx-BepInEx_MLLoader-2.1.0",
-		"AlexCodesGames-AdditionalSuits-1.1.1",
-		"NotAtomicBomb-Terminal_History-1.0.1",
+		"AlexCodesGames-AdditionalSuits-1.1.3",
+		"NotAtomicBomb-Terminal_History-1.0.4",
 		"vasanex-ItemQuickSwitch-1.1.0",
 		"5Bit-FPSSpectate-1.0.1",
 		"Blorb-WeatherMultipliers-1.0.0",
 		"RickArg-Helmet_Cameras-2.1.5",
 		"RugbugRedfern-Skinwalkers-2.0.1",
-		"Suskitech-AlwaysHearActiveWalkies-1.4.2",
+		"Suskitech-AlwaysHearActiveWalkies-1.4.3",
 		"2018-LC_API-2.2.0",
 		"bizzlemip-BiggerLobby-2.6.0",
 		"fivetoofive-DetailedScan-1.1.2",
 		"Sligili-More_Emotes-1.2.2",
 		"AllToasters-QuickRestart-1.2.0",
-		"amnsoft-EmployeeAssignments-1.0.6",
+		"amnsoft-EmployeeAssignments-1.0.8",
 		"HomelessGinger-MaskedEnemyOverhaul-2.1.0",
 		"jammeh-NoiseSuppression-1.0.2",
 		"squall4120-StockOverview-1.0.3",
 		"Hexnet111-SuitSaver-1.1.2",
-		"EliteMasterEric-Coroner-1.3.0",
-		"TheBeeTeam-PersistentPurchases-1.1.0",
-		"LethalOrg-ProgressiveDeadline-0.0.0"
+		"EliteMasterEric-Coroner-1.4.2",
+		"TheBeeTeam-PersistentPurchases-1.2.0",
+		"Rune580-LethalCompany_InputUtils-0.4.2",
+		"LethalOrg-ProgressiveDeadline-2.0.0"
 	]
 }

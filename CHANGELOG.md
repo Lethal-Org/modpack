@@ -10,3 +10,6 @@
 
 # 1.2.0
 - Include a few qol mods
+
+# 1.3.0
+- Update mods
