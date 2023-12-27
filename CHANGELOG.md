@@ -13,3 +13,6 @@
 
 # 1.3.0
 - Update mods
+
+# 1.5.0
+- Add moon mods

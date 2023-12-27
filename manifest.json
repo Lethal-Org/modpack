@@ -1,6 +1,6 @@
 {
 	"name": "LethalOrgPack",
-	"version_number": "1.4.0",
+	"version_number": "1.5.0",
 	"website_url": "https://github.com/Lethal-Org/modpack",
 	"description": "Lethal org mod pack for me and my friends",
 	"dependencies": [
@@ -32,6 +32,9 @@
 		"EliteMasterEric-Coroner-1.4.2",
 		"Rune580-LethalCompany_InputUtils-0.4.3",
 		"LethalOrg-ProgressiveDeadline-2.0.0",
-		"Hamunii-JetpackWarning-2.2.0"
+		"Hamunii-JetpackWarning-2.2.0",
+		"HolographicWings-LethalExpansion-1.3.6",
+		"sfDesat-Aquatis-0.3.3",
+		"sfDesat-Orion-1.0.0"
 	]
 }
