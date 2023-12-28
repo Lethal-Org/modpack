@@ -1,6 +1,6 @@
 {
 	"name": "LethalOrgPack",
-	"version_number": "1.5.0",
+	"version_number": "1.6.0",
 	"website_url": "https://github.com/Lethal-Org/modpack",
 	"description": "Lethal org mod pack for me and my friends",
 	"dependencies": [
@@ -29,12 +29,19 @@
 		"jammeh-NoiseSuppression-1.0.2",
 		"squall4120-StockOverview-1.0.3",
 		"Hexnet111-SuitSaver-1.1.2",
-		"EliteMasterEric-Coroner-1.4.2",
-		"Rune580-LethalCompany_InputUtils-0.4.3",
+		"EliteMasterEric-Coroner-1.5.0",
+		"Rune580-LethalCompany_InputUtils-0.4.4",
 		"LethalOrg-ProgressiveDeadline-2.0.0",
 		"Hamunii-JetpackWarning-2.2.0",
 		"HolographicWings-LethalExpansion-1.3.6",
 		"sfDesat-Aquatis-0.3.3",
-		"sfDesat-Orion-1.0.0"
+		"sfDesat-Orion-1.0.2",
+		"Jamil-Corporate_Restructure-1.0.2",
+		"Evaisa-HookGenPatcher-0.0.5",
+		"Evaisa-LethalLib-0.9.0",
+		"scoopy-LethalExtension-0.1.0",
+		"doggosuki-Huntdown-1.1.4",
+		"steven4547466-YoutubeBoombox-1.5.0",
+		"IntegrityChaos-Diversity-1.1.4"
 	]
 }
