@@ -1,6 +1,6 @@
 {
 	"name": "LethalOrgPack",
-	"version_number": "1.7.0",
+	"version_number": "1.8.0",
 	"website_url": "https://github.com/Lethal-Org/modpack",
 	"description": "Lethal org mod pack for me and my friends",
 	"dependencies": [
@@ -19,7 +19,7 @@
 		"RickArg-Helmet_Cameras-2.1.5",
 		"RugbugRedfern-Skinwalkers-2.0.1",
 		"Suskitech-AlwaysHearActiveWalkies-1.4.3",
-		"2018-LC_API-3.1.0",
+		"2018-LC_API-3.2.2",
 		"bizzlemip-BiggerLobby-2.6.0",
 		"fivetoofive-DetailedScan-1.1.2",
 		"Sligili-More_Emotes-1.2.2",
@@ -33,12 +33,12 @@
 		"Rune580-LethalCompany_InputUtils-0.4.4",
 		"LethalOrg-ProgressiveDeadline-2.0.0",
 		"Hamunii-JetpackWarning-2.2.0",
-		"Jamil-Corporate_Restructure-1.0.2",
+		"Jamil-Corporate_Restructure-1.0.3",
 		"Evaisa-HookGenPatcher-0.0.5",
 		"Evaisa-LethalLib-0.9.0",
-		"scoopy-LethalExtension-0.1.0",
 		"doggosuki-Huntdown-1.1.4",
 		"steven4547466-YoutubeBoombox-1.5.0",
-		"IntegrityChaos-Diversity-1.1.4"
+		"IntegrityChaos-Diversity-1.1.4",
+		"Stoneman-LethalProgression-1.3.2"
 	]
 }
